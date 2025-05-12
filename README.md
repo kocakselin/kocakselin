@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Aspiring Computer Engineer | 📍 Turkey  
   <br>
-  💡 Passionate about AI, Data Science & Embedded Systems
+  💡 Passionate about AI &  Data Science
 </p>
 
 ---
