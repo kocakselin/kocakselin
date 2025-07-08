@@ -13,16 +13,6 @@ I'm a 3rd-year computer engineering student with a passion for solving problems 
 
 ---
 
-### 💻 Technologies I Use
-- 💻 Programming: Python, C/C++, MATLAB, SQL
-- 🧠 AI & ML: TensorFlow, PyTorch, Scikit-learn, CNNs
-- 📷 Computer Vision: OpenCV, Face Detection, Emotion Recognition
-- ⚙️ Embedded Systems: ESP32, Arduino, Sensors, IoT
-- 🛢️ Databases: MSSQL, SQLite
-- 🌐 Web Basics: HTML, CSS
-
----
-
 ### 🚀 Projects Highlights
 - **Facial Recognition and Emotion Analysis System**  
   `→ Built with OpenCV, Deep Learning, JAFFE & CK+ datasets`
