@@ -2,8 +2,6 @@
 
 <p align="center">
   🎓 Aspiring Computer Engineer | 📍 Turkey  
-  <br>
-  💡 Passionate about AI &  Data Science
 </p>
 
 ---
@@ -23,7 +21,7 @@ I'm a 3rd-year computer engineering student with a passion for solving problems 
 
 - **🌐 Multiple Personal and Business Websites**  
   `→ Developed several modern and responsive websites for personal and commercial use.`  
-  *Used HTML, CSS, JavaScript, and WordPress.*
+  *Used HTML, CSS, JavaScript, React and Flutter.*
 
 - **Smart Pet Feeder with ESP32**  
   `→ IoT-based system using stepper motor, load cell, and sensors`
