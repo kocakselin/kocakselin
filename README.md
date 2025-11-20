@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-I'm a 4rd-year computer engineering student with a passion for solving problems through code and building smart systems.
+I'm a 4th-year computer engineering student with a passion for solving problems through code and building smart systems.
 
 ---
 
