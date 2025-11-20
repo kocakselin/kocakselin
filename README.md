@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-I'm a 3rd-year computer engineering student with a passion for solving problems through code and building smart systems. I enjoy working on both software and hardware projects, combining AI and embedded technologies.
+I'm a 4rd-year computer engineering student with a passion for solving problems through code and building smart systems.
 
 ---
 
@@ -28,7 +28,6 @@ I'm a 3rd-year computer engineering student with a passion for solving problems 
 
 - **Marble Quality Control System**  
   `→ Deep learning and computer vision project for industrial automation`
-
 
 ---
 
